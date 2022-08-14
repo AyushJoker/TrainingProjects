@@ -1,0 +1,14 @@
+﻿@model IEnumerable<MyMVC_ControllerDemo.Models.Student>
+
+
+<h1>List of Students :</h1>
+<hr />
+
+<ul>
+    @foreach(var item in Model)
+    {
+
+        <li>@item.ID|@item.fName| @item.lName</li>
+    }
+</ul>
+<hr />

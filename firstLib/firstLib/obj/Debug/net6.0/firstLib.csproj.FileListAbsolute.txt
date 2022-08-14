@@ -1,0 +1,12 @@
+C:\Users\Asus\firstLib\firstLib\bin\Debug\net6.0\firstLib.deps.json
+C:\Users\Asus\firstLib\firstLib\bin\Debug\net6.0\firstLib.dll
+C:\Users\Asus\firstLib\firstLib\bin\Debug\net6.0\firstLib.pdb
+C:\Users\Asus\firstLib\firstLib\obj\Debug\net6.0\firstLib.csproj.AssemblyReference.cache
+C:\Users\Asus\firstLib\firstLib\obj\Debug\net6.0\firstLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\firstLib\firstLib\obj\Debug\net6.0\firstLib.AssemblyInfoInputs.cache
+C:\Users\Asus\firstLib\firstLib\obj\Debug\net6.0\firstLib.AssemblyInfo.cs
+C:\Users\Asus\firstLib\firstLib\obj\Debug\net6.0\firstLib.csproj.CoreCompileInputs.cache
+C:\Users\Asus\firstLib\firstLib\obj\Debug\net6.0\firstLib.dll
+C:\Users\Asus\firstLib\firstLib\obj\Debug\net6.0\refint\firstLib.dll
+C:\Users\Asus\firstLib\firstLib\obj\Debug\net6.0\firstLib.pdb
+C:\Users\Asus\firstLib\firstLib\obj\Debug\net6.0\ref\firstLib.dll

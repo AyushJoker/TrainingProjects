@@ -1,0 +1,15 @@
+C:\Users\Asus\TestLib\TestLib\bin\Debug\net6.0\TestLib.exe
+C:\Users\Asus\TestLib\TestLib\bin\Debug\net6.0\TestLib.deps.json
+C:\Users\Asus\TestLib\TestLib\bin\Debug\net6.0\TestLib.runtimeconfig.json
+C:\Users\Asus\TestLib\TestLib\bin\Debug\net6.0\TestLib.dll
+C:\Users\Asus\TestLib\TestLib\bin\Debug\net6.0\TestLib.pdb
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\TestLib.csproj.AssemblyReference.cache
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\TestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\TestLib.AssemblyInfoInputs.cache
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\TestLib.AssemblyInfo.cs
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\TestLib.csproj.CoreCompileInputs.cache
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\TestLib.dll
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\refint\TestLib.dll
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\TestLib.pdb
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\TestLib.genruntimeconfig.cache
+C:\Users\Asus\TestLib\TestLib\obj\Debug\net6.0\ref\TestLib.dll
